@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Blessing ukatu.
+# Author - Blessing Ukatu.
 
 def islower(c):
     """Function checks for lowercase characters."""
